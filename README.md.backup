@@ -119,7 +119,7 @@ $ sudo grub2-mkconfig -o /boot/grub2/grub.cfg
 $ sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
 
-- ④ If you delete the manually installed `GRUB` theme,</br>you need to delete the folder copied to the `/boot/grub/themes/` directory,</br>comment or delete the `GRUB_THEME` in the `/etc/default/grub` file  and ` GRUB_ GFXMODE ` parameter </br> and update ` GRUB `.</br>means original return.
+- ④ If you delete the manually installed `GRUB` theme,</br>you need to delete the folder copied to the `/boot/grub/themes/` directory,</br>comment or delete the `GRUB` in the `/etc/default/grub` file_ THEME ` and ` GRUB_ GFXMODE ` parameter </br> and update ` GRUB `.</br>means original return.
 
 ### Topic recommendation
 
